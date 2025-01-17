@@ -2,7 +2,7 @@
   "name": "aluraflix-vite",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://sileneg.github.io/aluraflix/",
+  "homepage": "https://github.com/Damonstone1/AluraFlix.git",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
